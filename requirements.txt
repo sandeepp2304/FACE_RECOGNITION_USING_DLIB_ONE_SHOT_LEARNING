@@ -1,0 +1,13 @@
+cmake==3.17.3
+dlib==19.8.2
+Cython==0.29.15
+
+opencv-python==4.2.0.34
+
+numpy==1.18.1
+
+pandas==1.0.1
+
+Pillow==7.0.0
+
+scikit-image==0.16.2
